@@ -258,10 +258,6 @@
           <program value="59"/>
           <synti>Fluid</synti>
           </Channel>
-        <Channel name="harmony">
-          <program value="0"/>
-          <synti>Fluid</synti>
-          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -2732,10 +2728,6 @@
             <eid>t3kGBX0gpTN_M5d1hJyIPKK</eid>
             <concertKey>4</concertKey>
             </KeySig>
-          <Harmony>
-            <root>18</root>
-            <eid>57RdVjmo21H_VbXsDkfiw+P</eid>
-            </Harmony>
           <Chord>
             <eid>gCLSlOHQ2uP_ErJBd/Jzb3N</eid>
             <durationType>quarter</durationType>
@@ -2776,11 +2768,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>20</root>
-            <name>m</name>
-            <eid>XVM0zHQbY2F_e2HlmTrP8LP</eid>
-            </Harmony>
           <Chord>
             <eid>qP7J1QbMIQ_oHqK8qfnS4C</eid>
             <dots>1</dots>
@@ -2795,10 +2782,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>19</root>
-            <eid>GuOMQfJqV2L_+ZsVSYqhKjE</eid>
-            </Harmony>
           <Chord>
             <eid>xwfPhGUFlQI_1jZmxl+dsrD</eid>
             <durationType>quarter</durationType>
@@ -2848,10 +2831,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>18</root>
-            <eid>iGDKOBhax/J_QA0EslaTNfF</eid>
-            </Harmony>
           <Chord>
             <eid>Xa0f92eaJt_WMK4QNZ/b3H</eid>
             <durationType>eighth</durationType>
@@ -2892,11 +2871,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <root>18</root>
-            <eid>zn2xnIyedjB_u96oJ68ph4E</eid>
-            <offset x="0" y="-2.2"/>
-            </Harmony>
           <Chord>
             <eid>7t6Rpx2NXyI_fs9GzX9UCPO</eid>
             <durationType>quarter</durationType>
