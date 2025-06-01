@@ -183,7 +183,7 @@
         </Staff>
       <trackName>בסון</trackName>
       <Instrument id="bassoon">
-        <longName>בסון</longName>
+        <longName>Bassoon</longName>
         <shortName>Bsn.</shortName>
         <trackName>בסון</trackName>
         <minPitchP>34</minPitchP>
@@ -312,28 +312,23 @@
       <VBox>
         <height>10</height>
         <eid>kTW7himlhQH_nHiEPyDXD6N</eid>
-        <linkedMain/>
         <Text>
           <eid>ifkBGNu143H_Yq9YkB+k4zB</eid>
-          <linkedMain/>
           <style>title</style>
           <text>יצאת משולש</text>
           </Text>
         <Text>
           <eid>8CwQLpCG1iN_cRT+OOOcWqJ</eid>
-          <linkedMain/>
           <style>subtitle</style>
           <text>אבסולט סינמה</text>
           </Text>
         <Text>
           <eid>yYRU/8zXjiM_4N21bsJdowF</eid>
-          <linkedMain/>
           <style>composer</style>
           <text>כפיר אלי יואב ומאור</text>
           </Text>
         <Text>
           <eid>L60LzeY4MCK_2OKkLsU+29H</eid>
-          <linkedMain/>
           <style>subtitle</style>
           <offset x="95.9538" y="-10.1302"/>
           <text>בס&quot;ד</text>
@@ -1955,6 +1950,7 @@
         <voice>
           <Chord>
             <eid>woPN39MjqJ_sC60yIF5M7B</eid>
+            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <eid>G1XtrJqNlCO_Qf575ITBo6G</eid>
@@ -1970,10 +1966,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <eid>W89wgmAf_MhZb1eV9PH</eid>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -2055,10 +2047,6 @@
           <Chord>
             <eid>Vw2r9tfi9OC_JN9gsV9g4jM</eid>
             <durationType>quarter</durationType>
-            <Ornament>
-              <subtype>ornamentTrill</subtype>
-              <eid>inicTqaPbCC_lHFBYrc3/VJ</eid>
-              </Ornament>
             <Note>
               <eid>QPiij4+hdPJ_LRy9ZgoyeZM</eid>
               <pitch>52</pitch>
