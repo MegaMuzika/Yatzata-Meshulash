@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.50">
   <Style>
-    <pageWidth>8.27</pageWidth>
-    <pageHeight>11.69</pageHeight>
-    <pagePrintableWidth>7.0889</pagePrintableWidth>
+    <pageWidth>8.5</pageWidth>
+    <pageHeight>11</pageHeight>
+    <pagePrintableWidth>7.3189</pagePrintableWidth>
     <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
     <pageOddLeftMargin>0.590551</pageOddLeftMargin>
     <pageEvenTopMargin>0.590551</pageEvenTopMargin>
@@ -171,7 +171,7 @@
     <stemSlashPosition>2</stemSlashPosition>
     <stemSlashAngle>40</stemSlashAngle>
     <stemSlashThickness>0.125</stemSlashThickness>
-    <accidentalDistance>0.22</accidentalDistance>
+    <accidentalDistance>0.25</accidentalDistance>
     <accidentalNoteDistance>0.25</accidentalNoteDistance>
     <bracketedAccidentalPadding>0.175</bracketedAccidentalPadding>
     <alignAccidentalsLeft>0</alignAccidentalsLeft>
@@ -197,7 +197,7 @@
     <articulationMag>1</articulationMag>
     <articulationPosAbove x="0" y="0"/>
     <articulationAnchorDefault>2</articulationAnchorDefault>
-    <articulationAnchorLuteFingering>4</articulationAnchorLuteFingering>
+    <articulationAnchorLuteFingering>1</articulationAnchorLuteFingering>
     <articulationAnchorOther>0</articulationAnchorOther>
     <articulationStemHAlign>2</articulationStemHAlign>
     <articulationKeepTogether>1</articulationKeepTogether>
@@ -244,7 +244,7 @@
     <pedalDashGapLen>4</pedalDashGapLen>
     <pedalHookHeight>-1.2</pedalHookHeight>
     <pedalFontFace>Edwin</pedalFontFace>
-    <pedalFontSize>12</pedalFontSize>
+    <pedalFontSize>10</pedalFontSize>
     <pedalLineSpacing>1</pedalLineSpacing>
     <pedalFontSpatiumDependent>1</pedalFontSpatiumDependent>
     <pedalMusicalSymbolsScale>1</pedalMusicalSymbolsScale>
@@ -353,7 +353,7 @@
     <fretDotSize>1</fretDotSize>
     <fretDotSpatiumSize>0.5</fretDotSpatiumSize>
     <fretStringSpacing>0.7</fretStringSpacing>
-    <fretFretSpacing>0.8</fretFretSpacing>
+    <fretFretSpacing>0.7</fretFretSpacing>
     <fretOrientation>0</fretOrientation>
     <maxFretShiftAbove>0</maxFretShiftAbove>
     <maxFretShiftBelow>0</maxFretShiftBelow>
@@ -361,7 +361,7 @@
     <fretUseCustomSuffix>0</fretUseCustomSuffix>
     <fretCustomSuffix>fr</fretCustomSuffix>
     <barreAppearanceSlur>0</barreAppearanceSlur>
-    <barreLineWidth>1</barreLineWidth>
+    <barreLineWidth>0.85</barreLineWidth>
     <fretShowFingerings>0</fretShowFingerings>
     <fretStyleExtended>0</fretStyleExtended>
     <showPageNumber>1</showPageNumber>
@@ -1207,7 +1207,7 @@
     <headerFontSpatiumDependent>0</headerFontSpatiumDependent>
     <headerFontStyle>0</headerFontStyle>
     <headerColor r="0" g="0" b="0" a="255"/>
-    <headerAlign>center,center</headerAlign>
+    <headerAlign>center,top</headerAlign>
     <headerOffset x="0" y="0"/>
     <headerFrameType>0</headerFrameType>
     <headerFramePadding>0.2</headerFramePadding>
@@ -1221,7 +1221,7 @@
     <footerFontSpatiumDependent>0</footerFontSpatiumDependent>
     <footerFontStyle>0</footerFontStyle>
     <footerColor r="0" g="0" b="0" a="255"/>
-    <footerAlign>center,center</footerAlign>
+    <footerAlign>center,bottom</footerAlign>
     <footerOffset x="0" y="0"/>
     <footerFrameType>0</footerFrameType>
     <footerFramePadding>0.2</footerFramePadding>
@@ -1591,7 +1591,7 @@
     <chordlineThickness>0.16</chordlineThickness>
     <dummyMusicalSymbolsScale>1</dummyMusicalSymbolsScale>
     <autoplaceEnabled>1</autoplaceEnabled>
-    <defaultsVersion>400</defaultsVersion>
+    <defaultsVersion>450</defaultsVersion>
     <changesBeforeBarlineRepeats>1</changesBeforeBarlineRepeats>
     <changesBeforeBarlineOtherJumps>1</changesBeforeBarlineOtherJumps>
     <placeClefsBeforeRepeats>0</placeClefsBeforeRepeats>
