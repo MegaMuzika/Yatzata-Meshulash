@@ -62,7 +62,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "piano",
+            "instrumentId": "chord_symbols",
             "out": {
                 "auxSends": [
                     {
@@ -79,7 +79,7 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "1",
+            "partId": "3",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -100,7 +100,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "chord_symbols",
+            "instrumentId": "piano",
             "out": {
                 "auxSends": [
                     {
@@ -117,7 +117,7 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "3",
+            "partId": "1",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -242,6 +242,40 @@
                 "unitConfiguration": {
                 }
             },
+            "instrumentId": "chord_symbols",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "5"
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
             "instrumentId": "violin",
             "out": {
                 "auxSends": [
@@ -336,6 +370,40 @@
                 "volumeDb": 0
             },
             "partId": "4"
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "trombone",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "5"
         }
     ]
 }
